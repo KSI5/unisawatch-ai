@@ -8,9 +8,7 @@ from parser import extract_text, contains_keyword
 from notifier import send_email
 
 KEYWORDS = [
-    "2027",
-    "applications open",
-    "apply now",
+  "Apply for admission",
 ]
 
 
