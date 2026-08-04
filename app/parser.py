@@ -12,6 +12,7 @@ def extract_text(html):
 def contains_keyword(text, keywords):
     """
     Check if any keyword exists in the page text.
+    Returns the matching keyword or None.
     """
     text = text.lower()
 

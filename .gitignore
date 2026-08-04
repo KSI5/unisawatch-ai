@@ -37,3 +37,9 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+# IDEs
+.idea/
+
+# OS Files
+ehthumbs.db
