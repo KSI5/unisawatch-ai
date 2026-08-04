@@ -1,8 +1,9 @@
-# WatchTower AI
+# UNISAWatch AI
 
 > **Monitor. Detect. Notify.**
+> **Never miss a UNISA application deadline again.**
 
-WatchTower AI is a lightweight Python application that monitors websites for important updates and sends email notifications when specified changes are detected.
+UNISAWatch AI is a lightweight Python application that monitors websites for important updates and sends email notifications when specified changes are detected.
 
 The first implementation monitors the official UNISA admissions page and alerts users as soon as applications for the 2027 academic year open.
 
@@ -31,7 +32,7 @@ The first implementation monitors the official UNISA admissions page and alerts 
 ## Project Structure
 
 ```text
-WatchTower-AI/
+UNISAWatch-AI/
 │
 ├── .github/
 │   └── workflows/
